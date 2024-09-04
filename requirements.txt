@@ -1,5 +1,4 @@
 pandas
 SQLAlchemy==2.0.33
 scikit-learn
-mysql
-mysqldb
+mysqlclient
